@@ -1,0 +1,10 @@
+Amount of Observations: 3
+1 Date: 12.5.2020 Time: 14:12:15 Temperature: 23
+2 Date: 4.6.2020 Time: 12:6:43 Temperature: 26
+3 Date: 15.1.2020 Time: 23:1:20 Temperature: -5
+Amount of Observations: 5
+1 Date: 12.5.2020 Time: 14:12:15 Temperature: 23
+2 Date: 4.6.2020 Time: 16:6:43 Temperature: 26
+3 Date: 15.1.2020 Time: 23:1:20 Temperature: -5
+4 Date: 4.6.2020 Time: 16:6:43 Temperature: 26
+5 Date: 15.1.2020 Time: 23:1:20 Temperature: -5
